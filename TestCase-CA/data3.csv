@@ -1,0 +1,3 @@
+Root Profile Name,Root Key Name,CRL Validity Days,Key Validity Days,Certificate Subject Name
+RootBSSNProfile,RootBSSNProfile,360,100,"cn=RootBSSNProfile,o=autentika,c=ID"
+RootBSSNProfile_ECC,RootBSSNProfile_ECC,360,100,"cn=RootBSSNProfile_ECC,o=autentika,c=ID"

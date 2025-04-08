@@ -1,0 +1,6 @@
+Certificate Config Name,Certificate Validity in Days,Timestamping URL,CA Repository URL,Require Explicit Policy,Inhibit Policy Mapping,Inhibit Any Policy
+RootCA_BSSNRSA,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1
+BSSNCA_Cert,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1
+RootCA_BSSNECC,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1
+CA_BSSNECC,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1
+DataEXTERNAL_forCSR,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1 

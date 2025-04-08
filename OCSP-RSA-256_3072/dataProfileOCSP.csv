@@ -1,0 +1,7 @@
+Certificate Config Name,Certificate Validity in Days,Timestamping URL,CA Repository URL,Require Explicit Policy,Inhibit Policy Mapping,Inhibit Any Policy
+ProfileOCSP_RSA,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1
+OCSP_CertRSA_CA,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1
+CA_OCSP_RSA,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1
+ProfileOCSP_ECDSA,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1
+OCSP_CertECDSA_CA,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1
+CA_OCSP_ECDSA,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1

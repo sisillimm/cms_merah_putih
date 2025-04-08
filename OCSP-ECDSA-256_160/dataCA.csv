@@ -1,0 +1,5 @@
+IssuerProfileName,IssuerKeyName,CrlValidity,AlgoProfile,ConfigProfile,KeyConfigType,KeyGroupName,KeyValidity,SubjectName
+CABSSN_1,CABSSN_1,1,SHA256withRSA,OCSP_CertRSA_CA,Key_RSA256_2048,Group BSSN_OCSP,360,"cn=CABSSN_1,o=autentika,c=ID"
+CABSSN_2,CABSSN_2,1,SHA1withECDSA,OCSP_CertRSA_CA,ECC1_160,Group BSSN_OCSP,360,"cn=CABSSN_2,o=autentika,c=ID"
+for_user1,for_user1,1,SHA256withRSA,OCSP_CertRSA_CA,Key_RSA256_2048,Group BSSN_OCSP,360,"cn=for_user1,o=autentika,c=ID"
+for_user2,for_user2,1,SHA256withRSA,OCSP_CertRSA_CA,Key_RSA256_2048,Group BSSN_OCSP,360,"cn=for_user2,o=autentika,c=ID"

@@ -1,0 +1,4 @@
+IssuerProfileName,IssuerKeyName,CrlValidity,AlgoProfile,ConfigProfile,KeyConfigType,KeyGroupName,KeyValidity,SubjectName
+DataCA BSSNRSA,DataCA_BSSNRSA,360,SHA256withRSA,BSSNCA_Cert,rsa_4096,Sandbox_KeyGroup,360,"cn=DataCA_BSSNRSA,o=autentika,c=ID"
+CA BSSNECC,CA_BSSN_ECDSA,360,SHA256withECDSA,CA_BSSNECC,ECC256_160,Sandbox_KeyGroup,360,"cn=CA_BSSN_ECC,o=autentika,c=ID"
+External CABSSN,External_CABSSN,360,SHA256withRSA,EXTERNAL_forCSR,rsa_4096,Sandbox_KeyGroup,360,"cn=External_CABSSN,o=autentika,c=ID" 

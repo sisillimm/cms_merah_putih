@@ -1,0 +1,6 @@
+Certificate Config Name,Certificate Validity in Days,Timestamping URL,CA Repository URL,Require Explicit Policy,Inhibit Policy Mapping,Inhibit Any Policy
+ProfileRSA_BSSN,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1
+CertRSA_CA,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1
+ProfileECDSA_BSSN,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1
+CertECC_CA,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1
+EXTERNAL_forCSR,365,http://10.10.10.17:3111/,http://10.10.10.17:3111/,1,1,1 
